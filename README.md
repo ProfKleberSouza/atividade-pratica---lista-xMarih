@@ -12,6 +12,8 @@ typedef struct Produto{
 }Produto;
 ```
 
+
+
 ```c
 // DEFINICAO DO TIPO CELULA
 typedef struct Celula{
